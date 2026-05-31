@@ -20,7 +20,7 @@
 ---
 
 ### 📫 تواصل معي
-- 📧 البريد الإلكتروني: [أضف بريدك هنا]
+- 📧 البريد الإلكتروني: [
 - 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🐦 [Twitter](https://twitter.com/yourusername)
 
