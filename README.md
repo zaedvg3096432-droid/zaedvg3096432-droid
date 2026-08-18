@@ -1,35 +1,31 @@
-# أهلاً بك في ملفي الشخصي على GitHub! 👋
+# Ahmed Alaa Bahr
 
-### أنا مطور شغوف بالتعلم والابتكار 🚀
+Computer Science and Artificial Intelligence student at [Lotus University](https://www.linkedin.com/school/lotus-university/), New Minya, Egypt. Expected graduation: **2029**.
 
-بصفتي مطوراً، أسعى دائماً لبناء حلول تقنية مبتكرة والمساهمة في مجتمع البرمجيات مفتوحة المصدر. هذا الملف الشخصي هو مساحتي لمشاركة مشاريعي ورحلتي في عالم البرمجة.
+I am currently building my programming foundation with **C++** and learning **Object-Oriented Programming**. My current focus is **Encapsulation**, writing small practice programs, and improving my understanding one concept at a time.
 
----
+## Current focus
 
-### 🛠️ المهارات والتقنيات
-- **اللغات:** Python, JavaScript, HTML/CSS
-- **الأدوات:** Git, GitHub, Docker, VS Code
-- **الاهتمامات:** تطوير الويب، الذكاء الاصطناعي، أتمتة العمليات
+- C++ fundamentals and problem solving
+- Object-Oriented Programming, currently Encapsulation
+- Small practice programs that turn concepts into code
+- Building a consistent learning routine and documenting progress
 
----
+## Selected work
 
-### 📊 إحصائيات GitHub
-![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=zaedvg3096432-droid&show_icons=true&theme=radical)
-![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=zaedvg3096432-droid&layout=compact&theme=radical)
+| Repository | What it contains |
+| --- | --- |
+| [my-college-routine](https://github.com/zaedvg3096432-droid/my-college-routine) | An Android college routine app built with React and Capacitor, covering schedules, tasks, habits, reminders, notes, and student utilities. |
+| [educational-project](https://github.com/zaedvg3096432-droid/educational-project) | An Academic Hub dashboard and backend concept with course management, resource review, analytics, and authentication examples. |
+| [void-navigation](https://github.com/zaedvg3096432-droid/void-navigation) | A TypeScript web experiment exploring responsive navigation, motion, and a cosmic-minimalist visual direction. |
+| [mobile-first-Arabic](https://github.com/zaedvg3096432-droid/mobile-first-Arabic) | A work-in-progress space for a mobile-first Arabic interface concept. |
 
----
+## Learning roadmap
 
-### 📫 تواصل معي
-- 📧 البريد الإلكتروني: [
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 🐦 [Twitter](https://twitter.com/yourusername)
+My next steps are to strengthen Encapsulation, then continue with constructors and destructors, inheritance, polymorphism, and small C++ applications that combine these concepts.
 
----
+## Connect
 
-### ⚡ حقائق سريعة
-- 🔭 أعمل حالياً على مشاريع برمجية جديدة.
-- 🌱 أتعلم باستمرار تقنيات حديثة في عالم التطوير.
-- 💬 اسألني عن أي شيء يخص التقنية، يسعدني المساعدة!
+- [LinkedIn](https://www.linkedin.com/in/ahmed-alaa-897a633a8)
 
----
-*تم إنشاء هذا الملف وتنسيقه بواسطة Manus ليكون واجهتك الاحترافية.*
+> I am learning in public, improving through practice, and open to constructive feedback from fellow learners and developers.
