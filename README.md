@@ -1,6 +1,6 @@
 # Ahmed Alaa Bahr
 
-Computer Science and Artificial Intelligence student at [Lotus University](https://www.linkedin.com/school/lotus-university/), New Minya, Egypt. Expected graduation: **2029**.
+Computer Science and Artificial Intelligence student at Lotus University, New Minya, Egypt. Expected graduation: **2029**.
 
 I am currently building my programming foundation with **C++** and learning **Object-Oriented Programming**. My current focus is **Encapsulation**, writing small practice programs, and improving my understanding one concept at a time.
 
